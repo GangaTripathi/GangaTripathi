@@ -20,7 +20,7 @@ $ whoami
 - 🌱 Learning **DSA in C++** | AWS Cloud | Backend Development
 - 🏆 **AWS Cloud Practitioner Certified**
 - 💬 Ask me about **React, Node.js, MongoDB, SQL, C++**
-- 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ganga-tripathi-7b5b8b2b4/)**
+- 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ganga-tripathi-a863bb329/)**
 
 ---
 
@@ -84,7 +84,8 @@ $ whoami
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganga-tripathi-7b5b8b2b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganga-tripathi-a863bb329/)
+[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GangaTripathi_)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GangaTripathi)
 
 </div>
